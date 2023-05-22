@@ -30,22 +30,13 @@ const experience = [
   },
   {
     // id: 3,
-    name: "Envision Head",
+    name: "Team Envision Organier",
     title: "Team Envision (Aaruush), Chennai ",
     desc: " Team Envision is a Multidisciplinary technical team of Aaruush (National-Level Techno-management Fest at SRMIST) that aims to provide solutions to most campus and societal issues and problems.",
     style: "bg-green-400",
     one: "Qualified Internal Round Of Smart India Hackathon.",
     two: "Found solutions to campus-related issues through ideation (ideas are under implementation).",
     three: "Team management.",
-  },
-  {
-    name: "Committee Head",
-    title: "Sponsorship and Marketing (Aaruush), Chennai",
-    desc: "Identifying and developing sponsor marketing / promotional opportunities through research, creative thinking, and industry-standard campaigns.",
-    style: "bg-yellow-400",
-    one: "Cresting pipelines of potential sponsors and partners.",
-    two: "Making proposals for sponsors and partners.",
-    three: "Team management",
   }
   
 ];
